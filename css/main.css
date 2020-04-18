@@ -50,3 +50,19 @@ table {
 .playhouses {
   width: 7em;
 }
+
+.table-wrapper table {
+  min-width: 45em;
+}
+
+.search-icon {
+  left: .3em;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+input.search-input {
+  padding-left: calc(.4em + 18px)
+}
