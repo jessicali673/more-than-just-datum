@@ -19,4 +19,34 @@ table {
   border-collapse: collapse;
 }
 
-.park
+.park {
+  width: 5em;
+}
+
+.type {
+  width: 6em;
+}
+
+.group {
+  width: 6em;
+}
+
+.swings {
+  width: 5em;
+}
+
+.slides {
+  width: 5em;
+}
+
+.seesaws {
+  width: 6em;
+}
+
+.sandboxes {
+  width: 7em;
+}
+
+.playhouses {
+  width: 7em;
+}
