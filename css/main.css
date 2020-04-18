@@ -64,5 +64,5 @@ table {
 }
 
 input.search-input {
-  padding-left: calc(.4em + 18px)
+  padding-left: calc(.4em + 18px);
 }
