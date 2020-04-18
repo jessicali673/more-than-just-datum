@@ -1,0 +1,22 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.panel-nav {
+  background-color: #ddd;
+}
+
+.panel-near {
+  background-color: #efefef;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.park
